@@ -9,7 +9,7 @@
   2.1.1 Send Transcript
     2.1.2 Send Letter of Intent
     2.1.3 Research FE or BE
-     2.1.3.1 Decide on probablity of Job Success and Interest
+     2.1.3.1 Decide on probability of Job Success and Interest
      2.1.3.2 Contact Turing to let them know on FE/BE.
  2.2 Take Initial Coding Proficiency Test
   2.2.1 Study for LSAT Logic tests
@@ -28,9 +28,9 @@
   2.2.3 Take Actual Test
     If you Pass
      2.2.3.1 Celebrate
-     2.2.3.2 Setup interv iew with Turing Staff
+     2.2.3.2 Setup interview with Turing Staff
      If you are accepted
-       2.2.3.2.1 Proceed to B udget and Planning Step
+       2.2.3.2.1 Proceed to Budget and Planning Step
      If you are not accepted
        2.2.3.2.1 Try Try Again.
     If you do not Pass
